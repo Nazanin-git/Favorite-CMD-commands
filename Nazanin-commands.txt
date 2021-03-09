@@ -1,0 +1,6 @@
+1- cat 
+    This command shows the content of a file
+2- git log -p
+    It shows what is going on inside every commit and it also shows the content of the files dommitted
+3- git clone <url>
+    It will copy the repository of your choosing on your computer, you can copy the url from github
